@@ -1,6 +1,6 @@
 # url view
 
-https://lodwyik0list.netlify.app/
+https://lodwyik0listtransaksi.netlify.app/
 
 # Getting Started with Create React App
 
